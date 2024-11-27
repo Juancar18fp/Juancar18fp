@@ -1,9 +1,8 @@
-## Hi there 👋
+## Hola 👋, soy Juan Carlos Fajardo
 
-<!--
-**Juancar18fp/Juancar18fp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Grado Superior en Desarrollo de Aplicaciones Multiplataforma en busca de crecer profesionalmente en el desarrollo de software. Me encanta explorar tecnologías nuevas, resolver problemas complejos y trabajar en proyectos que mezclen creatividad y funcionalidad.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
